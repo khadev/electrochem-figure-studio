@@ -1,4 +1,4 @@
-# Scientific Schematic Editor (PyQt6) — Enterprise edition
+# Electrochem figure studio 
 
 ## Run
     python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
