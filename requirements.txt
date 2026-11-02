@@ -1,0 +1,6 @@
+PyQt6>=6.5
+matplotlib>=3.6
+numpy>=1.23
+Pillow>=9.5
+# optional, for running tests/test_features.py with pytest instead of plain python
+# pytest>=7
